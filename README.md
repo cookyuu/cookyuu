@@ -1,6 +1,6 @@
 ### HaeKyu Lim
 
-- 🐥 Back-End Developer
+- 🛠️ Back-End Developer
 - 🌱 Java, Spring
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookyuu&show_icons=true&theme=merko)
