@@ -1,7 +1,7 @@
-### HaeKyu Lim
+### I'm HAEKYU LIM
 
-- 🛠️ Back-End Developer
-- 🌱 Java, Spring
+- Backend Developer
+- Java, Spring
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookyuu&show_icons=true&theme=merko)
 
